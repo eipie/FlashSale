@@ -1,4 +1,5 @@
-# Backend Web Development Project for E-Commerce System
+# FlashSale
+- a backend web development project for e-commerce system
 
 ### Overview
 - This is a personal web development project on building the backend for a e-commerce system. Specifically, this project aims to establish the fundamentals of a performant system for handling highly-concurrent user requests during a flash sale event such as Black Friday and Boxing Day.
